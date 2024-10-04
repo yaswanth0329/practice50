@@ -1,1 +1,2 @@
-hi
+name =input("whats your name ?").strip().title()
+print("Hello,",name)
